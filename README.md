@@ -12,7 +12,7 @@ __About me:__
 
 
 1. [Pre-work](class-01.md)
-1. [2]()
+1. [Day 1: Reading Notes](class-02.md)
 1. [3]()
 1. [4]()
 1. [5]()
