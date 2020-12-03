@@ -11,10 +11,10 @@ __About me:__
  I currently spend most of my time coding and creating art. A few things I love are cats, dogs, theater, and painting. 
 
 
-1. [Pre-work](class-01.md)
-1. [Day 1: Reading Notes](class-02.md)
-1. [3]()
-1. [4]()
+1. [Class 1 Reading Notes + Prework](class-01.md)
+1. [ Class 2 Reading Notes](class-02.md)
+1. [Class 3 Reading Notes](class-3.md)
+1. [Class 4 Reading Notes](cLASS-4.md)
 1. [5]()
 1. [6]()
 1. [7]()
