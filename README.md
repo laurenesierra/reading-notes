@@ -23,7 +23,7 @@ __About me:__
 1. [Class 10 Reading Notes](class-10.md)
 1. [Class 11 Reading Notes](class-11.md)
 1. [Class 12 Reading Notes](class-12.md)
-1. [13]()
+1. [Class 13 Reading Notes](class-13.md)
 1. [14]()
 1. [15]()
 
