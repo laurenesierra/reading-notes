@@ -24,7 +24,7 @@ __About me:__
 1. [Class 11 Reading Notes](class-11.md)
 1. [Class 12 Reading Notes](class-12.md)
 1. [Class 13 Reading Notes](class-13.md)
-1. [14]()
+1. [Class 14 Reading Notes](class-14.md)
 1. [15]()
 
 _"Learn the rules like a pro, so you can brake them like an artist."_   

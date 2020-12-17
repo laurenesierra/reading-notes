@@ -14,7 +14,7 @@ Persistent local storage is one of the areas where native client applications ha
 
 [Unlock Local Storage for mobile Web Applications with HTML5](https://developer.ibm.com/technologies/web-development/)
 
-## 
+ 
 
 
 
