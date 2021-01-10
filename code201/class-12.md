@@ -69,4 +69,4 @@ Directionally. Possible values: ltr, rtl, inherit. The default value is inherit.
 
 [Chart.js API](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
 
-[<----Back to Home](README.md)
+[<----Back to Home](../README.md)

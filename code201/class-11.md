@@ -47,4 +47,4 @@ Rollover allows a link or button to change to a second style when the user mouse
 When a single image is used for several different parts of an interface. The advantages of using sprites is that the web browser only needs to request one image rather then many images. This can make the page load faster. 
 
 
-[<----Back to Home](README.md)
+[<----Back to Home](../README.md)
