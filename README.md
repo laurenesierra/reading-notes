@@ -27,7 +27,7 @@ __About me:__
 ## Code 201 - Foundations of Software Development
 
 1. [Class 1 Reading Notes + Prework](code201/class-01.md)
-1. [ Class 2 Reading Notes](code201/class-02.md)
+1. [Class 2 Reading Notes](code201/class-02.md)
 1. [Class 3 Reading Notes](code201/class-03.md)
 1. [Class 4 Reading Notes](code201/class-04.md)
 1. [Class 5 Reading Notes](code201/class-05.md)
@@ -43,34 +43,34 @@ __About me:__
 
 ## Code 301 - Intermediate Software Development
 
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
+1. [Class 1 Reading Notes + Prework](code301/class-01.md)
+1. [Class 2 Reading Notes](code301/class-02.md)
+1. [Class 3 Reading Notes]()
+1. [Class 4 Reading Notes]()
+1. [Class 5 Reading Notes]()
+1. [Class 6 Reading Notes]()
+1. [Class 7 Reading Notes]()
+1. [Class 8 Reading Notes]()
+1. [Class 9 Reading Notes]()
+1. [Class 10 Reading Notes]()
+1. [Class 11 Reading Notes]()
+1. [Class 12 Reading Notes]()
+1. []() 
 
 ## Code 401 - Advanced Software Development
 
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
+1. [Class 1 Reading Notes + Prework]()
+1. [Class 2 Reading Notes]()
+1. [Class 3 Reading Notes]()
+1. [Class 4 Reading Notes]()
+1. [Class 5 Reading Notes]()
+1. [Class 6 Reading Notes]()
+1. [Class 7 Reading Notes]()
+1. [Class 8 Reading Notes]()
+1. [Class 9 Reading Notes]()
+1. [Class 10 Reading Notes]()
+1. [Class 11 Reading Notes]()
+1. [Class 12 Reading Notes]()
 
 _"Learn the rules like a pro, so you can brake them like an artist."_   
 _~Pablo Picasso_
