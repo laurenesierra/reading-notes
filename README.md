@@ -46,7 +46,7 @@ __About me:__
 1. [Class 1 Reading Notes + Prework](code301/class-01.md)
 1. [Class 2 Reading Notes](code301/class-02.md)
 1. [Class 3 Reading Notes](code301/class-03.md)
-1. [Class 4 Reading Notes]()
+1. [Class 4 Reading Notes](code301/class-04.md)
 1. [Class 5 Reading Notes]()
 1. [Class 6 Reading Notes]()
 1. [Class 7 Reading Notes]()
