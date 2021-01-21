@@ -51,7 +51,7 @@ __About me:__
 1. [Class 6 Reading Notes](code301/class-06.md)
 1. [Class 7 Reading Notes](code301/class-07.md)
 1. [Class 8 Reading Notes](code301/class-08.md)
-1. [Class 9 Reading Notes]()
+1. [Class 9 Reading Notes](code301/class-09.md)
 1. [Class 10 Reading Notes]()
 1. [Class 11 Reading Notes]()
 1. [Class 12 Reading Notes]()
