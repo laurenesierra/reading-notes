@@ -55,7 +55,8 @@ __About me:__
 1. [Class 10 Reading Notes](code301/class-10.md)
 1. [Class 11 Reading Notes](code301/class-11.md)
 1. [Class 12 Reading Notes](code301/class-12.md)
-1. []() 
+1. [Class 13 Reading Notes](code301/class-13.md) 
+1. [Class 14 Reading Notes]()
 
 ## Code 401 - Advanced Software Development
 
