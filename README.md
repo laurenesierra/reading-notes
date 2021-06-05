@@ -60,7 +60,7 @@ __About me:__
 
 ## Code 401 - Advanced Software Development
 
-1. [Class 1 Reading Notes + Prework]()
+1. [Class 1 Reading Notes + Prework](code401/class-01.md)
 1. [Class 2 Reading Notes]()
 1. [Class 3 Reading Notes]()
 1. [Class 4 Reading Notes]()
